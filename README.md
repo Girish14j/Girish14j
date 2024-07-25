@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Girish14j
 - 👀 I’m interested in c++ and data structures...
-- 🌱 I’m currently learning data structures in c++..
+- 🌱 I’m currently learning web development..
 - 💞️ I’m looking to collaborate on Deloitte.
 - 📫 How to reach me through email giriishdjoshi14@gmail.com.
 - 😄 Pronouns: ...
